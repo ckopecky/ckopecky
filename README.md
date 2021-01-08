@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 
-### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer that currently works as Technical Product Marketing Manager at Vercel. Welcome to my gh page! <br>
 
 Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
 
@@ -11,8 +11,6 @@ Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF do
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
 
 🌱 *Currently Learning*: React-Native and Ruby<br>
-🤔 *Looking for help*: I’m looking for help with trying to find my first software engineering job in this current job climate.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
