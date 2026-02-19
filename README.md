@@ -1,38 +1,87 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1507838153414-b4b713384a76" alt="Sheet music on stand" width="100%" />
+</p>
 
-### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer that currently works as a Customer Success Manager at Vercel. Welcome to my gh page! <br>
+<p align="center">
+  Photo by <a href="https://unsplash.com/@saveri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rajesh Kavasseri</a> on 
+  <a href="https://unsplash.com/photos/music-sheet-on-stand-KYnWHy3hMk0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</p>
 
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
+# Hi, I'm Christina Kopecky
 
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
+I’m a behavioral strategist with a technical mindset.
 
-🌱 *Currently Learning*: React-Native and Ruby<br>
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cmvnk)
+I analyze how people and teams actually behave inside products and organizations — then design structural changes that improve outcomes. When needed, I prototype or build to validate and implement those changes.
 
-😄 Pronouns: She/Her/Hers <br>
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
+---
+
+## What I Do
+
+I focus on behavior inside systems:
+
+- Where users hesitate, misunderstand, or abandon workflows  
+- Where teams duplicate effort or create avoidable friction  
+- Where incentives and structure produce unintended outcomes  
+- Where documentation fails to support decision-making  
+
+Then I translate those observations into:
+
+- Product adjustments  
+- Process redesign  
+- Documentation systems  
+- Internal tooling  
+- Measurable experiments  
+
+My technical background allows me to move from diagnosis to implementation without losing context.
+
+---
+
+## How I Work
+
+1. Map behavior (users, teams, incentives, constraints)
+2. Identify leverage points
+3. Design structural changes
+4. Validate through data, prototypes, or controlled rollout
+5. Measure outcomes and iterate
+
+I’m less interested in feature velocity and more interested in outcome velocity.
+
+---
+
+## Technical Fluency
+
+I use engineering to prototype, validate, and implement high-leverage changes.
+
+**Frontend:** JavaScript, React, Next.js, CSS  
+**Data & Systems:** SQL, relational data modeling, API integration  
+**Workflow:** Git, cross-functional collaboration, technical documentation systems  
+
+---
+
+## Background
+
+I’m also a musician and former educator.
+
+Music theory and composition trained me to analyze structure, anticipate progression, and refine complex systems over time. That training shapes how I approach product design, team workflows, and behavioral strategy today.
+
+===
+
+## Current Direction
+
+I’m looking for roles where I can:
+
+- Improve product and team behavior at a systems level  
+- Reduce friction across workflows  
+- Translate ambiguity into operational clarity  
+- Bridge technical teams and strategic decision-makers  
+
+---
+
+## Connect
+
+- LinkedIn  
+- Resume available upon request
+
+  
 
 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
