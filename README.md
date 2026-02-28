@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1507838153414-b4b713384a76" alt="Sheet music on stand" width="100%" />
+<p align="center" style="padding=0px;">
+  <img src="https://res.cloudinary.com/dncursers/image/upload/v1771570503/photo-1514213949578-58fe7b8ff146_gaqm8s.jpg" alt="Sheet music on stand" width="100%" />
 </p>
+<p align="right"><sup><sub>Photo by <a href="https://unsplash.com/@saveri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rajesh Kavasseri</a> on   <a href="https://unsplash.com/photos/music-sheet-on-stand-KYnWHy3hMk0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</sub></sup></p>
 
-<p align="center">
-  Photo by <a href="https://unsplash.com/@saveri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rajesh Kavasseri</a> on 
-  <a href="https://unsplash.com/photos/music-sheet-on-stand-KYnWHy3hMk0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</p>
 
 # Hi, I'm Christina Kopecky
 
