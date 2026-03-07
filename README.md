@@ -10,29 +10,7 @@
 I’m a behavioral strategist with a technical mindset.
 
 I analyze how people and teams actually behave inside products and organizations — then design structural changes that improve outcomes. When needed, I prototype or build to validate and implement those changes.
-
----
-
-## What I Do
-
-I focus on behavior inside systems:
-
-- Where users hesitate, misunderstand, or abandon workflows  
-- Where teams duplicate effort or create avoidable friction  
-- Where incentives and structure produce unintended outcomes  
-- Where documentation fails to support decision-making  
-
-Then I translate those observations into:
-
-- Product adjustments  
-- Process redesign  
-- Documentation systems  
-- Internal tooling  
-- Measurable experiments  
-
 My technical background allows me to move from diagnosis to implementation without losing context.
-
----
 
 ## How I Work
 
@@ -66,7 +44,7 @@ Music theory and composition trained me to analyze structure, anticipate progres
 
 ## Current Direction
 
-I’m looking for roles where I can:
+I’m looking for roles and projects where I can:
 
 - Improve product and team behavior at a systems level  
 - Reduce friction across workflows  
@@ -74,11 +52,6 @@ I’m looking for roles where I can:
 - Bridge technical teams and strategic decision-makers  
 
 ---
-
-## Connect
-
-- LinkedIn  
-- Resume available upon request
 
   
 
